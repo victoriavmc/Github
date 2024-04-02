@@ -1,0 +1,17 @@
+CREAR UN REPOSITORIO
+Abrir el Visual Studio Code
+Control + ñ abriendo terminal poner:
+1. Git Init
+2. Git add .
+3. Git commit -m "nombre del commit"
+4. Sacamos de github el tema el link para repositorio (git remote add origin https://github.com/victoriavmc/Github.git)
+5. Git branch -M main/master (fijate en el visual a la izq como lo llamaste)
+6. Git push -u origin main
+
+ACTUALIZAR EL REPOSITORIO
+Abrir el Visual Studio Code
+Control + ñ abriendo terminal poner:
+1. Git add .
+2. Git commit -m "nombre del commit"
+6. Git pull -u origin main    
+

@@ -1,4 +1,4 @@
-CREAR UN REPOSITORIO
+# CREAR UN REPOSITORIO
 Abrir el Visual Studio Code
 Control + ñ abriendo terminal poner:
 1. Git Init
@@ -8,7 +8,7 @@ Control + ñ abriendo terminal poner:
 5. Git branch -M main/master (fijate en el visual a la izq como lo llamaste)
 6. Git push -u origin main
 
-ACTUALIZAR EL REPOSITORIO
+# ACTUALIZAR EL REPOSITORIO
 Abrir el Visual Studio Code
 Control + ñ abriendo terminal poner:
 1. Git add .
